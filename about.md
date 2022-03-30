@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a third year Applied Mathematics student with a specialization in computing at UCLA who hopes to pursue a career in data science after graduating. In my free time I enjoy going to the beach, solving the New York Times Daily Mini, and trying iced vanilla lattes at new coffee shops. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[emmabradley@g.ucla.edu](mailto:emmabradley@g.ucla.edu)
