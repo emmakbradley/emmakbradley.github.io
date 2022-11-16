@@ -12,4 +12,4 @@ I am interested in pursuing a career in data science following my graduation in 
 
 Email: [emmabradley@g.ucla.edu](mailto:emmabradley@g.ucla.edu)
 
-LinkedIn: [here](https://www.linkedin.com/in/emma-bradley-8a778b21a/)
+
