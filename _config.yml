@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Emma Bradley (She/Her)
+name: Emma Bradley
 
 # Short bio or description (displayed in the header)
 description: Fourth Year Applied Mathematics Student at UCLA
@@ -21,9 +21,9 @@ footer-links:
   email: emmabradley@g.ucla.edu
   facebook:
   flickr:
-  github: https://github.com/emmakbradley # replace with your repo
+  github:  # replace with your repo
   instagram:
-  linkedin: https://www.linkedin.com/in/emma-bradley-8a778b21a/
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
