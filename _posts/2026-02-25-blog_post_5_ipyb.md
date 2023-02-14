@@ -3,7 +3,7 @@ layout: post
 title: PIC 16B Blog Post 5!
 ---
 
-Hello dear reader and welcome back to another blog post! Today's task is to teach a machine learning algorithm to distinguish betweeen pictures of dogs and cats. To do so, we will be making use of a Python package called TensorFlow. Let's get started!
+Hello and welcome back to another very exciting blog post! Today's task is to teach a machine learning algorithm to distinguish betweeen pictures of dogs and cats. To do so, we will be making use of a Python package called TensorFlow. Let's get started!
 
 Today's post is loosely based off of the following tutorial: [link](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
